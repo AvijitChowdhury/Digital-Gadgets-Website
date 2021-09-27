@@ -71,3 +71,6 @@ header{
     border-radius: 10px;
     background-image: linear-gradient(to right, #eed80f, #f5c904);
   }
+#categories{
+    margin-bottom: 100px;
+}
